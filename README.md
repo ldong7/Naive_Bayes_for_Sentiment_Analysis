@@ -1,4 +1,4 @@
 Naive_Bayes_for_Sentiment_Analysis
 ==================================
 
-Explored and analyzed the effect of a physical bank branch on the demand for checking account by applying linear regression analysis in R
+Classified documents into either ‘positive’ or ‘negative’ categories by developing a Naive Bayes algorithm in Python
